@@ -1,0 +1,9 @@
+c:\users\miantsa\documents\visual studio 2015\Projects\Fanorona\Fanorona\bin\Debug\Fanorona.exe.config
+C:\Users\MIANTSA\Documents\Visual Studio 2015\Projects\Fanorona\Fanorona\bin\Debug\Fanorona.exe
+C:\Users\MIANTSA\Documents\Visual Studio 2015\Projects\Fanorona\Fanorona\bin\Debug\Fanorona.pdb
+C:\Users\MIANTSA\Documents\Visual Studio 2015\Projects\Fanorona\Fanorona\obj\Debug\Fanorona.csprojResolveAssemblyReference.cache
+C:\Users\MIANTSA\Documents\Visual Studio 2015\Projects\Fanorona\Fanorona\obj\Debug\Fanorona.Form1.resources
+C:\Users\MIANTSA\Documents\Visual Studio 2015\Projects\Fanorona\Fanorona\obj\Debug\Fanorona.Properties.Resources.resources
+C:\Users\MIANTSA\Documents\Visual Studio 2015\Projects\Fanorona\Fanorona\obj\Debug\Fanorona.csproj.GenerateResource.Cache
+C:\Users\MIANTSA\Documents\Visual Studio 2015\Projects\Fanorona\Fanorona\obj\Debug\Fanorona.exe
+C:\Users\MIANTSA\Documents\Visual Studio 2015\Projects\Fanorona\Fanorona\obj\Debug\Fanorona.pdb
